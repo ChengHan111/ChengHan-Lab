@@ -1234,7 +1234,7 @@ border: 1px solid #e6e6e6;
 
 .pricing-box-item .pricing-terms {
 	text-align: center;
-	background: #0E987E;
+	background: #150aad;
 	display: block;
 	overflow: hidden;
 	padding: 11px 0 5px; 
@@ -1507,7 +1507,7 @@ a.feature_btn:hover {
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
 color: #FFF;
-background-color: #12B293;
+background-color: #150aad;
 }
 .txtContent p{
 color:#000;
