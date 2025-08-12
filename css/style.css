@@ -175,7 +175,6 @@ header .nav .caret {
   position: relative;
 }
 
-/* 设置图片等比缩放、中心裁切 */
 .slide-image,
 .flexslider .slides img {
   width: 100%;
@@ -318,7 +317,7 @@ display: inline-block;
 }
 #featured .flexslider:after {
 content:'';
-background: rgba(17, 218, 180, 0.67);
+background: rgba(8, 28, 206, 0.67);
 position:absolute;
 top:0px;
 z-index:6;
@@ -1234,7 +1233,7 @@ border: 1px solid #e6e6e6;
 
 .pricing-box-item .pricing-terms {
 	text-align: center;
-	background: #150aad;
+	background: #0E987E;
 	display: block;
 	overflow: hidden;
 	padding: 11px 0 5px; 
@@ -1507,7 +1506,7 @@ a.feature_btn:hover {
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
 color: #FFF;
-background-color: #150aad;
+background-color: #12B293;
 }
 .txtContent p{
 color:#000;
