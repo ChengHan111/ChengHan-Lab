@@ -998,7 +998,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: rgb(25, 147, 218);
+background: rgba(25, 147, 218, 0.57);
 }
 footer ul.link-list li a{
 	color:#fff;
