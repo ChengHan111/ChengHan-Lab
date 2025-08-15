@@ -578,7 +578,7 @@ padding:60px 0;
 }
 .feature_grid1 .fa{
 color: #6E6E6E;
-border: 1px solid #0A6352;
+border: 1px solid rgba(25, 147, 218, 0.57);
 border-radius: 50%;
 width: 85px;
 height: 85px;
