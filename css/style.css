@@ -1506,7 +1506,7 @@ a.feature_btn:hover {
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
 color: #FFF;
-background-color: #12B293;
+background-color: rgb(10, 83, 126);
 }
 .txtContent p{
 color:#000;
